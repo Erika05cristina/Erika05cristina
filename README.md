@@ -80,13 +80,6 @@ I'm a **Computer Science Engineer** and **Full Stack Developer** actively transi
 ![Web3](https://img.shields.io/badge/Web3-F6851B?style=flat-square&logo=ethereum&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-0EA5E9?style=flat-square)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erika05cristina&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF007F&icon_color=DB2777&text_color=1A1A1A&count_private=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika05cristina&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF007F&text_color=1A1A1A&cache_seconds=86400" />
-</p>
-
 ### 🌱 Learning Path
 
 | Area | Progress |
@@ -178,13 +171,6 @@ Soy **Ingeniera en Ciencias de la Computación** y **Desarrolladora Full Stack**
 ![Forense Digital](https://img.shields.io/badge/Forense_Digital-6B21A8?style=flat-square)
 ![Web3](https://img.shields.io/badge/Web3-F6851B?style=flat-square&logo=ethereum&logoColor=white)
 ![Seguridad de Redes](https://img.shields.io/badge/Seguridad_de_Redes-0EA5E9?style=flat-square)
-
-### 📊 Estadísticas GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erika05cristina&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF007F&icon_color=DB2777&text_color=1A1A1A&count_private=true&cache_seconds=86400&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika05cristina&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF007F&text_color=1A1A1A&cache_seconds=86400" />
-</p>
 
 ### 🌱 Rutas de Aprendizaje
 
