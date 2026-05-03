@@ -83,9 +83,18 @@ I'm a **Computer Science Engineer** and **Full Stack Developer** actively transi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erika05cristina&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF007F&icon_color=DB2777&text_color=1A1A1A" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika05cristina&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF007F&text_color=1A1A1A" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erika05cristina&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF007F&icon_color=DB2777&text_color=1A1A1A&count_private=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika05cristina&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF007F&text_color=1A1A1A&cache_seconds=86400" />
 </p>
+
+### 🌱 Learning Path
+
+| Area | Progress |
+|------|----------|
+| 🌐 Network Security | ████████████░░░░░░░ 50% |
+| 🔧 DevSecOps Fundamentals | ██████████░░░░░░░░░ 35% |
+| ⛓️ Web3 & Smart Contracts | █████████░░░░░░░░░░ 30% |
+| 🔍 Digital Forensics | ██████░░░░░░░░░░░░░ 20% |
 
 <p align="center">
   <a href="https://erika-portfolio-seven.vercel.app/" target="_blank">
@@ -173,8 +182,8 @@ Soy **Ingeniera en Ciencias de la Computación** y **Desarrolladora Full Stack**
 ### 📊 Estadísticas GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erika05cristina&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF007F&icon_color=DB2777&text_color=1A1A1A&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika05cristina&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF007F&text_color=1A1A1A" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Erika05cristina&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF007F&icon_color=DB2777&text_color=1A1A1A&count_private=true&cache_seconds=86400&locale=es" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika05cristina&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF007F&text_color=1A1A1A&cache_seconds=86400" />
 </p>
 
 ### 🌱 Rutas de Aprendizaje
